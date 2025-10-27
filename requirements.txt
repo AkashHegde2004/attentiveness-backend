@@ -8,8 +8,7 @@ passlib==1.7.4
 bcrypt==4.1.2
 opencv-python==4.9.0.80
 deepface==0.0.88
-torch==2.5.1
-
+torch==2.1.2
 ultralytics==8.1.0
 numpy==1.26.3
 Pillow==10.2.0
